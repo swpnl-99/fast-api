@@ -1,0 +1,8 @@
+uvicorn
+virtualenv
+fastapi
+sqlalchemy
+passlib
+bcrypt
+python-jose
+python-multipart
